@@ -1,0 +1,22 @@
+#navs {
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.EndpointButton {
+  padding: 10px;
+  width: 100%;
+  outline: none;
+  font-size: 25px;
+  background-color: #fff;
+  color: #666;
+  cursor: pointer;
+  /* margin: auto 30px; */
+}
+#thButton {
+  border: 0;
+  border-bottom: solid 5px #666;
+}
+#eButton {
+  border: 0;
+}

@@ -1,0 +1,15 @@
+header {
+  height: auto;
+  text-align: center;
+  border-bottom: 1px solid #999;
+}
+#branding {
+  margin: auto;
+  padding: 30px;
+}
+#branding a {
+  text-decoration: none;
+  font-size: 40px;
+  font-weight: 200;
+  color: #666;
+}
